@@ -1,6 +1,6 @@
 # [Aditya Singh]
 
-![AdityaCubicles45]()
+![AdityaCubicles45](https://avatars.githubusercontent.com/u/67513926?v=4)
 
 ## 👋 Hello, World! 
 

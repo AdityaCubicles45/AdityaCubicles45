@@ -24,7 +24,7 @@ I'm a software developer | Campus Ambassador @5ireChain and tech enthusiast pass
 - 🌐 Portfolio: [https://adityacubicles45.github.io/aditya-website/]
 - 📧 Email: [aditya.singh456m@gmail.com]
 - 🔗 LinkedIn: [https://www.linkedin.com/in/aadityasingh18/]
-- 🐦 Twitter: [witter.com/Aditya04183]
+- 🐦 Twitter: [twitter.com/Aditya04183]
 - 💼 Instagram: [https://www.instagram.com/adityasingh.dev/]
 - 💻 Discord: [AdityaCubicles45#8478]
 

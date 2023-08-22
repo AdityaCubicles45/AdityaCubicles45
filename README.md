@@ -43,6 +43,8 @@ I'm a software developer | Campus Ambassador @5ireChain and tech enthusiast pass
 - 📫 Feel free to reach me out **aditya.singh456m@gmail.com**
 
 - 🏠 Also We've a tech community coming soon []().
+
+  [![adityastwt18's GitHub | Stats](https://stats.quine.sh/adityastwt18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityastwt18)
 <!--Intro end-->
 
 

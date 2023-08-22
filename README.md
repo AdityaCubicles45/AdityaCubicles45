@@ -45,6 +45,8 @@ I'm a software developer | Campus Ambassador @5ireChain and tech enthusiast pass
 - 🏠 Also We've a tech community coming soon []().
 
   [![adityastwt18's GitHub | Stats](https://stats.quine.sh/adityastwt18/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityastwt18)
+  [![adityastwt18's Web3 | Identity](https://stats.quine.sh/adityastwt18/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityastwt18)
+  [![adityastwt18's GitHub | Languages Over Time](https://stats.quine.sh/adityastwt18/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adityastwt18)
 <!--Intro end-->
 
 
